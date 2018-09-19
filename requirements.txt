@@ -1,4 +1,3 @@
 twisted
-enum
 pyOpenSSL
 smpp.pdu
